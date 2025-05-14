@@ -6,7 +6,7 @@ The aim is to design  and implement  a  6T  SRAM (Static Random-Access Memory) c
 ## Tools Required
 
 ### Cadence  EDA Suite
-- **Virtuoso Schematic Editor** (for circuit design)
+-  **Virtuoso Schematic Editor** (for circuit design)
 - **Spectre Simulator** (for circuit simulation)
 
 ### Process Design Kit (PDK)
