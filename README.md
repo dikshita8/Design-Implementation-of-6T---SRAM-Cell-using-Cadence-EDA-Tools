@@ -7,7 +7,7 @@ The aim is to design and implement a 6T SRAM (Static Random-Access Memory) cell 
 
 ### Cadence EDA Suite
 - **Virtuoso Schematic Editor** (for circuit design)
-- **Spectre Simulator** (for circuit simulation)
+- **Spectre Simulator**  (for circuit simulation)
 
 ### Process Design Kit (PDK)
 - CMOS technology library (45nm node)  
