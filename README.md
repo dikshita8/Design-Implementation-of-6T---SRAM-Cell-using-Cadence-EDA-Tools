@@ -29,7 +29,8 @@ The aim is to design and implement a 6T SRAM (Static Random-Access Memory) cell 
    - Check the design for errors and proceed with simulation.
    - Launch the Analog Design Environment (ADE).
    - Perform transient analysis to verify read and write operations.
-   - Set up input stimulus and analyze the output waveform.
+   - Set
+   - up input stimulus and analyze the output waveform.
 
 ## Circuit Diagram
 
